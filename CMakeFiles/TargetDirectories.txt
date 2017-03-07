@@ -1,0 +1,3 @@
+/home/gxq/detect-cars/CMakeFiles/edit_cache.dir
+/home/gxq/detect-cars/CMakeFiles/rebuild_cache.dir
+/home/gxq/detect-cars/CMakeFiles/detect-cars.dir
